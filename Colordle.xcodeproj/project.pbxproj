@@ -8,10 +8,12 @@
 
 /* Begin PBXBuildFile section */
 		58D672462FB8E8AF00E13D17 /* NotificationLog in Frameworks */ = {isa = PBXBuildFile; productRef = 58D672452FB8E8AF00E13D17 /* NotificationLog */; };
+		58D6727A2FBBB0CF00E13D17 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 58D672782FBBB0CD00E13D17 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		58D672222FB8DE1C00E13D17 /* Colordle.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Colordle.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		58D672782FBBB0CD00E13D17 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -39,6 +41,7 @@
 			children = (
 				58D672242FB8DE1C00E13D17 /* Colordle */,
 				58D672232FB8DE1C00E13D17 /* Products */,
+				58D672782FBBB0CD00E13D17 /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
@@ -118,6 +121,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				58D6727A2FBBB0CF00E13D17 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
